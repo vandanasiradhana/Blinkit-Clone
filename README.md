@@ -1,14 +1,14 @@
-# 🛒 Blinkit Landing Page Clone
+# Blinkit Landing Page Clone
 
 A responsive and modern grocery delivery landing page inspired by Blinkit, built using HTML5 and CSS3.
 
-## 📌 About The Project
+## About The Project
 
 This project is a frontend clone of the Blinkit landing page, developed as part of a frontend assignment. It provides a clean and user-friendly interface for exploring groceries and everyday essentials.
 
 The website is designed to work on desktop, tablet, and mobile devices.
 
-## ✨ Features
+## Features
 
 - Responsive navigation bar with logo, location, search bar, login and cart.
 - Attractive promotional hero banner.
@@ -20,7 +20,7 @@ The website is designed to work on desktop, tablet, and mobile devices.
 - Clean and modern footer.
 - Responsive layout for different screen sizes.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -28,7 +28,7 @@ The website is designed to work on desktop, tablet, and mobile devices.
 - CSS Grid
 - CSS Media Queries
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Blinkit-Clone/
@@ -40,7 +40,7 @@ Blinkit-Clone/
 └── README.md
 ```
 
-## 🚀 How To Run Locally
+## How To Run Locally
 
 1. Clone this repository:
 
@@ -54,7 +54,7 @@ git clone https://github.com/vandanasiradhana/Blinkit-Clone.git
 
 4. Run using Live Server or open the HTML file in your browser.
 
-## 📱 Responsive Design
+## Responsive Design
 
 The website is designed for:
 
@@ -62,7 +62,7 @@ The website is designed for:
 - Tablet
 - Mobile
 
-## 👩‍💻 Developer
+## Developer
 
 **Vandana Rani**
 
@@ -70,10 +70,10 @@ B.Tech Computer Science & Engineering
 
 Meerut Institute of Engineering and Technology
 
-## 📄 Disclaimer
+## Disclaimer
 
 This project is created for educational purposes as a frontend development assignment. It is inspired by Blinkit and is not an official Blinkit website.
 
 ---
 
-⭐ If you like this project, feel free to explore the repository!
+ If you like this project, feel free to explore the repository!
